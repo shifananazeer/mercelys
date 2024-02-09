@@ -1,0 +1,373 @@
+.head-bar{
+    width: 100%;
+    height: 9rem;
+    background-color:#ffff ;
+}
+body{
+    margin: 0;
+}
+.first{
+    width: 100%;
+    height: 4rem;
+    background-color: #ffcc32!important;;
+    padding-top: 5rem;
+}
+.second{
+    width: 25rem;
+    height: 15rem;
+   float: left;
+    margin-left: 10rem;
+
+}
+.optn{
+    float: left;
+    width:40rem ;
+    height:10rem ;
+    background-color:#ffff;
+    margin-left: 7rem;
+}
+.home{
+    width: 8rem;
+    height: 4rem;
+    float: left;
+    background-color:#ffcc32!important;;
+    text-align: center;
+}
+.body{
+    width: 100%;
+    height: 64rem;
+    background-color:#fff;
+}
+.name{
+    width: 100%;
+    height: 7rem;
+    background-color:#ffff;
+}
+.name-right{
+    width: 50%;
+    height:9rem ;
+    background-color:#ffff;
+    float: left;
+}
+.inner{
+    color: #662d91!important;
+    font-family: 'Quicksand',Helvetica,Arial,Lucida,sans-serif;
+   margin-right: 27rem;
+   margin-top: 2rem;
+}
+.ice-cream{
+    width: 50%;
+    height: 34rem;
+    background-color:#fff;
+    float: left;
+}
+.img-ice{
+    margin-top: 2rem;
+    margin-left: 7rem;
+    width: 35rem;
+    height: 30rem;
+    float: left;
+}
+.dq{
+    width:50%;
+    height: 34rem;
+    float: left;
+    background-color: #ffff;
+}
+.dq-img{
+    margin-left: 3rem;
+    width: 35rem;
+    height: 30rem;
+}
+.para{
+    width: 70%;
+    height: 55rem;
+    background-color:#ffff;
+    margin-left: 12rem;
+    text-align: center;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 130%;
+    color: #662d91;
+}
+.sec-section{
+    width: 100%;
+    height: 77rem;
+    background-color: #ffcc32;
+}
+.sec-section-bar{
+    width: 100%;
+    height: 7rem;
+    background-color:#ffff;
+    padding-top: 5rem;
+
+}
+.st {
+    font-weight: 700;
+    font-size: 187%;
+    margin-left: 10rem;
+    color: #662d91;
+    
+}
+.sec-bar{
+    width: 100%;
+    height: 8rem;
+    background-color:#ffcc32;
+padding-left:10rem ;
+}
+.sec-section-body{
+width: 90%;
+height: 27rem;
+background-color:#ffcc32 ;
+margin-left: 4rem;
+}
+.block{
+    width: 25%;
+    height: 27rem;
+    background-color:#ffcc32;
+    float: left;
+}
+.heading{
+    width: 100%;
+    height: 6rem;
+    background-color:#ffcc32;
+}
+.sub-heading{
+    color: #662d91!important;
+    font-family: 'Quicksand',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 164%;
+}
+.contant-para{
+    color: #662d91;
+    font-size:164% ;
+    font-family: 'Quicksand',Helvetica,Arial,Lucida,sans-serif;
+}
+.ice-img{
+    width: 82%;
+    height:20rem ;
+    margin-top: 4rem;
+}
+.health-img{
+    margin-top: 5rem;
+}
+.natural{
+    margin-top:5rem ;
+}
+.sustainable{
+    margin-top: 5rem;
+}
+.third-section{
+    width: 100%;
+    height: 40rem;
+    background-color:#fff;
+}
+.third-header{
+    width: 100%;
+    height: 8rem;
+
+    padding-top: 3rem;
+    padding-left: 8rem;
+}
+third-para{
+    color: #662d91;
+    font-size:100% ;
+    font-family: 'Quicksand',Helvetica,Arial,Lucida,sans-serif;
+}
+.third-para-block{
+    width: 100%;
+    height:8rem ;
+
+    padding-left:8rem ;
+    
+}
+.bars{
+    width: 80%;
+    height: 20rem;
+
+    margin-left: 8rem;
+}
+.bar1{
+    width: 96%;
+    height: 3rem;
+    background-color: #662d91;
+    color: #fff;
+    padding-left: 2rem;
+    padding-top: 1px;
+}
+.bar2{
+    width: 96%;
+    height: 3rem;
+    background-color: #662d91;
+    color: #fff;
+    padding-left: 2rem;
+    padding-top: 1px;
+    margin-top: 2rem;
+}
+.fourth{
+    width: 100%;
+    height: 35rem;
+    background-color:#ffcc32;
+}
+.fourth-header{
+    width: 100%;
+    height: 2rem;
+    
+    padding-top: 1rem;
+    padding: 5rem;
+}
+.sub-parts1{
+    width: 45%;
+    height: 20rem;
+    float: left;
+    
+    padding-left: 7rem;
+}
+.sub-parts{
+    width: 45%;
+    height: 20rem;
+    float: left;
+    
+}
+.para1{
+    width: 100%;
+    height: 6rem;
+
+}
+.para2{
+    width: 100%;
+    height:5rem ;
+}
+.fifth{
+    width: 100%;
+    height: 50rem;
+    background-color:#fff;
+    padding-left: 20rem;
+    
+}
+.fifth-header{
+    width: 100%;
+    height: 10rem;
+    
+    padding-left: 10rem;
+    padding-top: 4rem;
+}
+.vedio{
+    width: 50rem;
+    height: 25rem;
+    
+}
+.six{
+    width: 100%;
+    height: 50rem;
+    background-color: #ffcc32;
+}
+.six-header{
+    width: 100%;
+    height: 5rem;
+
+    padding-left: 5rem;
+    padding-top: 7rem;
+}
+.label{
+    width: 80%;
+    height: 25rem;
+
+    margin-left: 8rem;
+}
+
+.form-control{
+width: 98%;
+height: 3rem;
+background-color: #eee;
+border: 0;
+}
+.form-control-mail{
+    width: 45%;
+    float: left;
+    margin-top: 3rem;
+    height: 3rem;
+    background-color: #eee;
+    border: 0;
+}
+.form-control-phone{
+    width: 45%;
+    float: left;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    height: 3rem;
+    background-color: #eee;
+    border: 0;
+}
+.form-control-massege{
+    width: 98%;
+    margin-top: 3rem;
+    height: 10rem;
+    background-color: #eee;
+    border: 0;
+}
+.six-footer{
+    width: 100%;
+    height: 6rem;
+
+    padding-left: 70%;
+}
+.maths{
+    color: darkgray;
+    float: left;
+    padding-top: 1rem;
+    
+}
+.demmy{
+    width: 3rem;
+    height: 3rem;
+    background-color: #eee;
+    float: left;
+    border: 0;
+    margin-left: 4px;
+    margin-top: 1rem;
+}
+.submit{
+    border: 2px solid;
+    border-color: rgb(94, 94, 243);
+    border-radius: 4px;
+    background-color: #ffcc32;
+    width: 8rem;
+    height: 3rem;
+    color: rgb(85, 85, 241);
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+.footer-head{
+    width: 100%;
+    height: 8rem;
+    background-color:#ffcc32;
+}
+.real-footer{
+    width: 100%;
+    height: 20rem;
+    background-color: #662d91;
+}
+.real-footer-head{
+    width: 100%;
+    height: 4rem;
+
+    padding-top: 5rem;
+}
+.foo{
+    float: left;
+    margin-left: 10rem;
+    color: #eee;
+}
+.footer-foo{
+    margin-left:20rem;
+}
+.real-footer-contant{
+    width: 100%;
+    height: 4rem;
+    
+}
